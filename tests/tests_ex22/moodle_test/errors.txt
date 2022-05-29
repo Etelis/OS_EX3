@@ -1,4 +1,4 @@
-/home/kali/Desktop/OS/EX2/cwd/tests_ex22/moodle_test/students/Compilation_Error_gets_10/error1.c: In function ‘main’:
-/home/kali/Desktop/OS/EX2/cwd/tests_ex22/moodle_test/students/Compilation_Error_gets_10/error1.c:5:5: error: expected declaration or statement at end of input
+/home/kali/Desktop/OS/EX2/tests/tests_ex22/moodle_test/students/Compilation_Error_gets_10/error1.c: In function ‘main’:
+/home/kali/Desktop/OS/EX2/tests/tests_ex22/moodle_test/students/Compilation_Error_gets_10/error1.c:5:5: error: expected declaration or statement at end of input
     5 |     printf("dfg");
       |     ^~~~~~
